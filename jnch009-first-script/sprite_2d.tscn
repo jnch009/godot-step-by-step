@@ -3,7 +3,7 @@
 [ext_resource type="Texture2D" uid="uid://not45adatgnr" path="res://icon.svg" id="1_wmvyn"]
 [ext_resource type="Script" path="res://Icon.gd" id="2_23wbh"]
 
-[node name="Icon" type="Sprite2D"]
+[node name="Sprite2D" type="Sprite2D"]
 position = Vector2(514, 298)
 texture = ExtResource("1_wmvyn")
 script = ExtResource("2_23wbh")
